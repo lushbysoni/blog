@@ -1,0 +1,58 @@
+---
+title: Lush by Soni
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Lush by Soni
+description: Lifestyle blog.
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
+# disqus: lushbysoni
+# mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+include:
+- _pages
+permalink: "/:title/"
+authors:
+  soni:
+    name: Soni
+    display_name: Soni
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: lindamuthoni@gmail.com
+    web: https://lushbysoni.com
+    description: Author of Lush by Soni.
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
+jekyll-archives:
+  enabled:
+  - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
+paginate: 6
+paginate_path: "/page:num/"
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+# adsense: disabled
+# adsense-data-ad-client: ca-pub-3412143450191416
+# adsense-data-ad-slot: 1363087678
+lazyimages: disabled
+exclude:
+- changelog.md
+- LICENSE.txt
+- README.md
+- Gemfile
+- Gemfile.lock
