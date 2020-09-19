@@ -9,9 +9,7 @@ author: soni
 image: /uploads/skin-care.jpg
 ---
 
-BYE BYE DULL; HOW TO GLOW UP.
-
-&nbsp;The “self care” and “glow up” movement has shifted a lot of people’s mentality on skin care and wellness.
+The “self care” and “glow up” movement has shifted a lot of people’s mentality on skin care and wellness.
 
 &nbsp; Perhaps by now we have all heard monikers coined around the word hydrate, so we pretty much understand why water is essential for great skin. A healthy balanced diet that incorporates fruits and vegetables is also essential for healthy glow skin.
 
