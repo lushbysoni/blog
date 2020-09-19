@@ -11,7 +11,7 @@ image: /uploads/pexels-truth-enock-4119553.jpg
 
 The “self care” and “glow up” movement has shifted a lot of people’s mentality on skin care and wellness.
 
-&nbsp; Perhaps by now we have all heard monikers coined around the word hydrate, so we pretty much understand why water is essential for great skin. A healthy balanced diet that incorporates fruits and vegetables is also essential for healthy glow skin.
+&nbsp; Perhaps by now we have all heard monikers coined around the word hydrate, so we pretty much understand why water is essential for great skin. A healthy balanced diet that incorporates fruits and vegetables is also essential for healthy glowing skin.
 
 &nbsp; The next step to take in order to boost that glow is to add an exfoliant to your regimen. Those could be physical exfoliants that range from simple ones like loofahs, exfoliating gloves, beaded shower gels to the more complex microdermabrasion and many others.&nbsp;
 
@@ -47,7 +47,7 @@ Method
 
 &nbsp;Sugar is added to this recipe as another exfoliating agent that will further aid in the elimination of dead skin cells.&nbsp;
 
-Coconut/olive oil will act as a moisturizer keep your skin soft and moisturized even as you exfoliate it ill leave your skin soft and supple.
+Coconut/olive oil will act as a moisturizer to keep your skin soft and moisturized even as you exfoliate it will leave your skin soft and supple.
 
 This recipe is easy to make and extra batches can be made and stored in the fridge for up to two weeks for future use. If used regularly, you will definitely notice a difference in the texture and clarity of your skin.&nbsp;
 
