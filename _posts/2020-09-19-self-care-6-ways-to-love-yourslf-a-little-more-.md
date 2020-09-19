@@ -9,8 +9,6 @@ author: soni
 image: /uploads/pexels-madison-inouye-2821823.jpg
 ---
 
-SELF CARE; 6 WAYS TO LOVE YOURSELF A LITTLE MORE.
-
 Are you just looking to boost your mood, relax or even purge negative emotions? Read on.
 
 ~self care is a deliberate choice to gift yourself with people, places, things, opportunities that recharge our personal battery and promote whole health - body, mind and spirit.~ Laurie Buchanan.
