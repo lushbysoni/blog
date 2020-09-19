@@ -6,7 +6,7 @@ categories:
   - tutorial
 layout: post
 author: soni
-image: /uploads/skin-care.jpg
+image: /uploads/pexels-truth-enock-4119553.jpg
 ---
 
 The “self care” and “glow up” movement has shifted a lot of people’s mentality on skin care and wellness.
