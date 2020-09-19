@@ -1,5 +1,5 @@
 ---
-title: SELF CARE; 6 WAYS TO LOVE YOURSLF A LITTLE MORE.
+title: SELF CARE; 6 WAYS TO LOVE YOURSELF A LITTLE MORE.
 date: 2020-09-19 00:00:00
 categories:
   - Jekyll
