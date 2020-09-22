@@ -1,0 +1,148 @@
+I"5
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    
+
+        
+
+    
+
+        
+
+    
+
+    </div>
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/self-care-6-ways-to-love-yourself-a-little-more/">
+                
+
+        
+                        <img class="img-fluid" src="/uploads/pexels-madison-inouye-2821823.jpg" alt="SELF CARE; 6 WAYS TO LOVE YOURSELF A LITTLE MORE." /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/self-care-6-ways-to-love-yourself-a-little-more/">SELF CARE; 6 WAYS TO LOVE YOURSELF A LITTLE MORE.</a>
+                
+            </h2>
+            <h4 class="card-text">Are you just looking to boost your mood, relax or even purge negative emotions? Read on.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/?s=250&amp;d=mm&amp;r=x" alt="Soni" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://lushbysoni.com">Soni</a></span><br />
+                
+                <span class="post-date">19 Sep 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/self-care-6-ways-to-love-yourself-a-little-more/" title="Read Story">
+                    <!-- <svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg> -->
+                </a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/bye-bye-dullhow-to-glow-up/">
+                
+
+        
+                        <img class="img-fluid" src="/uploads/pexels-truth-enock-4119553.jpg" alt="BYE BYE DULL;HOW TO GLOW UP." /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/bye-bye-dullhow-to-glow-up/">BYE BYE DULL;HOW TO GLOW UP.</a>
+                
+            </h2>
+            <h4 class="card-text">The “self care” and “glow up” movement has shifted a lot of people’s mentality on skin care and wellness.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/?s=250&amp;d=mm&amp;r=x" alt="Soni" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://lushbysoni.com">Soni</a></span><br />
+                
+                <span class="post-date">19 Sep 2020</span>
+                </span>
+                <span class="post-read-more"><a href="/bye-bye-dullhow-to-glow-up/" title="Read Story">
+                    <!-- <svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg> -->
+                </a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET
