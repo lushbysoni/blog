@@ -6,7 +6,7 @@ categories:
   - tutorial
 layout: post
 author: soni
-image: /uploads/pexels-maitree-rimthong-1602727.jpg
+image: /uploads/pexels-maitree-rimthong-1602728.jpg
 ---
 
 if you look at your budget, are there any recurrent expenditures that you could either eliminate or swap for affordable and sustainable alternatives? Below are some curated items that will help you trim your budget. Checkout a bonus item at the end of this article.
