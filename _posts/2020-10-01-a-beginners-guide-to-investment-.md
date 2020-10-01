@@ -26,7 +26,7 @@ Apart from devastating families and economies, Covid 19 has really proven the im
 
 **Shares and stock market;**&nbsp;A&nbsp;[stock](https://www.investopedia.com/terms/s/stock.asp){: target="_blank"}&nbsp;or share (also known as a company's "[equity](https://www.investopedia.com/terms/e/equity.asp){: target="_blank"}") is a financial instrument that represents ownership in a company or corporation and represents a proportionate claim on its&nbsp;[assets](https://www.investopedia.com/terms/a/asset.asp){: target="_blank"}&nbsp;(what it owns) and&nbsp;[earnings](https://www.investopedia.com/terms/e/earnings.asp){: target="_blank"}&nbsp;(what it generates in profits). **Investopedia.&nbsp;**
 
-The minimum amount Humber of shares one can buy on the Nairobi securities exchange is 100; this means that as long as you are buying shares that are trading below KES 50, you can invest. There are actually many fundamentally strong companies that are trading below KES 50 at the moment that you could be accumulating ownership with KES 5,000. **Centonomy.**
+The minimum amount Number of shares one can buy on the Nairobi securities exchange is 100; this means that as long as you are buying shares that are trading below KES 50, you can invest. There are actually many fundamentally strong companies that are trading below KES 50 at the moment that you could be accumulating ownership with KES 5,000. **Centonomy.**
 
 **Saccos (plural SACCOs) Acronym of Savings and Credit Co-operative;** a credit union.
 
