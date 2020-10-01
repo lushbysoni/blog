@@ -40,8 +40,6 @@ Benefits.
 4. Their products are priced at a reasonable rate compared to banks.&nbsp;
 5. Members have a say in the management and the running for the Sacco through the annual AGMs.
 
-&nbsp;
-
 **Equities;** These are market-linked investments that do not come with an assurance of bearing fixed returns. Returns on equity thus depend on the underlying asset’s performance. These can include stocks and shares. They can also be&nbsp;[Equity mutual funds](https://groww.in/p/equity-funds/){: target="_blank"}&nbsp;and&nbsp;[hedge funds](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/hedge-fund/){: target="_blank"}&nbsp;
 
 We all want to make our money work for us, and with that emerges another dark side in the investment world: pyramid schemes and other instant money making ventures can seem like such a brilliant idea at first but before you become too enthusiastic and put in your hard earned money, make sure the Avenue in which you choose to invest in is 100% legit. You can also check whether the institution is registered and governed by the Central bank of Kenya.
