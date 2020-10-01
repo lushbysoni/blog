@@ -1,6 +1,6 @@
 ---
 title: SPEND MONEY TO SAVE MONEY? Items for financial wellness.
-date: 2020-09-19 00:00:00
+date: 2020-09-18 00:00:00
 categories:
   - Jekyll
   - tutorial
