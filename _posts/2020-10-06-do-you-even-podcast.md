@@ -1,6 +1,6 @@
 ---
 title: DO YOU EVEN PODCAST?
-date: 2020-10-01 00:00:00
+date: 2020-10-06 00:00:00
 categories:
   - Jekyll
   - tutorial
