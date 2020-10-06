@@ -9,7 +9,7 @@ author: soni
 image: /uploads/3D058C51-BB88-47B3-A638-566AC828AA89.jpeg
 ---
 
-It’s surprising that podcasts haven’t really become mainstream as of the year 2020. Apart from being very informative since you can literally find podcasters on literally any subject you are interested in and it’s a welcome alternative to radio.&nbsp;
+It’s surprising that podcasts haven’t really become mainstream as of the year 2020. Apart from being very informative since you can literally find podcasters on nearly any subject you are interested in and it’s a welcome alternative to radio.&nbsp;
 
 So next time you have a spare moment when you are stuck in traffic on your commute to work, or when lounging around the house why don’t download a podcast app if you haven’t got one already and give it a go.
 
