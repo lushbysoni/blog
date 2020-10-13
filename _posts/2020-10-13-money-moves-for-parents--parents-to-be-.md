@@ -9,7 +9,7 @@ author: soni
 image: /uploads/F9A01C40-39B9-4175-BBB8-5485BFDA61C4.jpeg
 ---
 
-*“ if the children are our future then there’s no greater way to invest in the future then investing in our children”&nbsp;*Dr. Nivradha Singh.&nbsp;
+*“ if the children are our future then there’s no greater way to invest in the future than investing in our children”&nbsp;*Dr. Nivradha Singh.&nbsp;
 
 Here you are new parent you set eyes on their tiny little face and they let out that coo, ah they are perfect. And within a blink of an eye you are presented with a hefty medical bill or fee structure and you were not prepared. Now what??&nbsp;
 
