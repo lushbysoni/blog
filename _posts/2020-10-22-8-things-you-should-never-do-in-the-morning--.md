@@ -15,7 +15,7 @@ You just had a restful night, the alarm has gone off or like some other people y
 
 **1\.Checking social media.**
 
-When you wake up and the first thing you reach for is your phone and head straight for Instagram, Facebook, Twitter and the likes you are potentially going to end up seeing something that will completely put a damper on your mood and right when you wake up for that matter. What that will do is simply ruin your day. You can instead read a religion text of whatever faith you practice, or just listen to something uplifting like a podcast, sermon or even music to supercharge you and give you the best chance of having a fantastic day.&nbsp;
+When you wake up and the first thing you reach for is your phone and head straight for Instagram, Facebook, Twitter and the likes you are potentially going to end up seeing something that will completely put a damper on your mood and right when you wake up for that matter. You can instead read a religious text of whatever faith you practice, or just listen to something uplifting like a podcast, sermon or even music to supercharge you and give you the best chance of having a fantastic day.&nbsp;
 
 **2\.Starting your day without a shower.**
 
@@ -29,7 +29,7 @@ Studies have shown that leaving your bed unmade will have you feeling disorganiz
 
 You know those leftover French fries you had from yesterday skip those and have something healthy instead. Like a fruit smoothie mix or oats. Don’t eat a lot of carbohydrates in the morning it’s a sure way of making yourself sluggish and bloated.
 
-**5\.Being negative/ complaining.**
+**5\.Being negative and complaining.**
 
 Okay the weather isn’t so good it’s raining or it’s chilly instead of starting your day by complaining how about you say something like this isn’t what I would have preferred but I will make it work. See right there you have chosen to be positive instead of putting bad energy into the universe and setting yourself up to encounter more negative situations.
 
