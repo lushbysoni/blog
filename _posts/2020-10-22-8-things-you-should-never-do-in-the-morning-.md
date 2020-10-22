@@ -1,5 +1,5 @@
 ---
-title: 8 THINGS YOU SHOULD NEVER DO IN THE MORNING .
+title: 8 THINGS YOU SHOULD NEVER DO IN THE MORNING.
 date: 2020-10-22 10:35:00
 categories:
   - Jekyll
